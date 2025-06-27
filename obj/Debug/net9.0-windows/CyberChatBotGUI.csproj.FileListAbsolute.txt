@@ -1,0 +1,17 @@
+C:\Users\lab_services_student\Desktop\CLDV\group2project\CyberChatBotGUI\bin\Debug\net9.0-windows\CyberChatBotGUI.exe
+C:\Users\lab_services_student\Desktop\CLDV\group2project\CyberChatBotGUI\bin\Debug\net9.0-windows\CyberChatBotGUI.deps.json
+C:\Users\lab_services_student\Desktop\CLDV\group2project\CyberChatBotGUI\bin\Debug\net9.0-windows\CyberChatBotGUI.runtimeconfig.json
+C:\Users\lab_services_student\Desktop\CLDV\group2project\CyberChatBotGUI\bin\Debug\net9.0-windows\CyberChatBotGUI.dll
+C:\Users\lab_services_student\Desktop\CLDV\group2project\CyberChatBotGUI\bin\Debug\net9.0-windows\CyberChatBotGUI.pdb
+C:\Users\lab_services_student\Desktop\CLDV\group2project\CyberChatBotGUI\obj\Debug\net9.0-windows\CyberChatBotGUI.csproj.GenerateResource.cache
+C:\Users\lab_services_student\Desktop\CLDV\group2project\CyberChatBotGUI\obj\Debug\net9.0-windows\CyberChatBotGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Desktop\CLDV\group2project\CyberChatBotGUI\obj\Debug\net9.0-windows\CyberChatBotGUI.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Desktop\CLDV\group2project\CyberChatBotGUI\obj\Debug\net9.0-windows\CyberChatBotGUI.AssemblyInfo.cs
+C:\Users\lab_services_student\Desktop\CLDV\group2project\CyberChatBotGUI\obj\Debug\net9.0-windows\CyberChatBotGUI.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Desktop\CLDV\group2project\CyberChatBotGUI\obj\Debug\net9.0-windows\CyberChatBotGUI.sourcelink.json
+C:\Users\lab_services_student\Desktop\CLDV\group2project\CyberChatBotGUI\obj\Debug\net9.0-windows\CyberChatBotGUI.dll
+C:\Users\lab_services_student\Desktop\CLDV\group2project\CyberChatBotGUI\obj\Debug\net9.0-windows\refint\CyberChatBotGUI.dll
+C:\Users\lab_services_student\Desktop\CLDV\group2project\CyberChatBotGUI\obj\Debug\net9.0-windows\CyberChatBotGUI.pdb
+C:\Users\lab_services_student\Desktop\CLDV\group2project\CyberChatBotGUI\obj\Debug\net9.0-windows\CyberChatBotGUI.genruntimeconfig.cache
+C:\Users\lab_services_student\Desktop\CLDV\group2project\CyberChatBotGUI\obj\Debug\net9.0-windows\ref\CyberChatBotGUI.dll
+C:\Users\lab_services_student\Desktop\CLDV\group2project\CyberChatBotGUI\obj\Debug\net9.0-windows\CyberChatBotGUI.MainForm.resources
